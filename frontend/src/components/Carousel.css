@@ -1,0 +1,1 @@
+.carousel-container{height:100vh;overflow:hidden;position:relative;width:100%}.carousel-image{height:100%;object-fit:cover;position:absolute;transition:opacity .5s ease-in-out;width:100%}.carousel-image:not(.active){opacity:0}
